@@ -10,10 +10,10 @@ isolate-0x*
 debug.html
 
 # generated content
-build/
+#build/
 coverage/
 jsdoc/
-lib/
+#lib/
 
 # coverage
 .nyc_output/
