@@ -24,12 +24,6 @@
     "csl",
     "citeproc"
   ],
-  "files": [
-    "/lib",
-    "/bin",
-    "/build/citation.js",
-    "/build/citation.min.js"
-  ],
   "dependencies": {
     "@babel/polyfill": "^7.0.0",
     "@citation-js/date": "^0.4.1",
