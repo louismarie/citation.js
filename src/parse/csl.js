@@ -23,6 +23,7 @@ const fieldTypes = {
   'collection-editor': NAME_LIST,
   composer: NAME_LIST,
   'container-author': NAME_LIST,
+  'container-translator': NAME_LIST,
   editor: NAME_LIST,
   'editorial-director': NAME_LIST,
   director: NAME_LIST,
